@@ -1,9 +1,5 @@
 # DeepLearning_Study
 
-Study
+## Source
 
-- css 
-
-- html
-
-- Javascript
+- deep learning from scratch, saito goki
