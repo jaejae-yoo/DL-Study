@@ -2,4 +2,4 @@
 
 ## Source
 
-- deep learning from scratch, saito goki
+- Book : deep learning from scratch, saito goki
