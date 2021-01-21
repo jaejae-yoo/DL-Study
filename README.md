@@ -1,4 +1,4 @@
-# DeepLearning_Study
+# DeepLearning Study
 
 ## Source
 
